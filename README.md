@@ -88,5 +88,5 @@ Things were difficult for me and I finally gave up‼️
 |:---:|
 
 <h3 align="right">
-      <a href="https://github.com/xvferdy/fem-3-column-preview-card-component/tree/04-documentation#readme">To Top ✪</a>
+      <a href="#readme">To Top ✪</a>
 </h3>
