@@ -42,23 +42,14 @@ Users should be able to:
 - Live Site URL: [Github Pages]()
 
 ## My process
-> ⌛ I challenge my self to finish this for ***~3 days*** <br>
+> ⌛ I challenge my self to finish this for ***~2 days*** <br>
 > ▐ <br>
-> 🧑‍💻 ***Day 1.*** Folder structure & basic [Sass](https://sass-lang.com/) boilerplate <kbd>~2 hours</kbd> <br>
+> 🧑‍💻 ***Day 1.*** <br>
+> ▐ <sub>Folder structure <kbd>~0.5 hours</kbd></sub> <br>
+> ▐ <sub>[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) content & basic [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) <kbd>~1.5 hours</kbd></sub> <br>
+> ▐ <sub>Start styling & try mobile first approach <kbd>~2.5 day</kbd></sub> <br>
 > ▐ <br>
-> 🧑‍💻 ***Day 2.*** [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) skeleton <kbd>~2.5 hours</kbd> <br>
-> ▐ <sub>Plus starting making a very basic layout using `grid` </sub> <br>
-> ▐ <br>
-> 😭 ***Day 3.*** [Javascript](https://www.javascript.com/) day<br>
-> ▐ <sub>Working with JSON file <kbd>~4 hours</kbd></sub> <br>
-> ▐ <br>
-> 🌐 ***Day 3.*** Submit to [**Frontend Mentor**](https://www.frontendmentor.io/solutions/femtimetrackingdashboard-ujF6vcWFM "Solution") 🚩 <br>
-> ▐ <sub>Add some [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) for coloring <kbd>~3 hours</kbd></sub> <br>
-> ▐ <br>
-> 🗓️ ***Day 4-5.*** Continuing incomplete design <br>
-> ▐ <sub>Try to fix buggy style <kbd>~6.5 hours</kbd></sub> <br>
-> ▐ <sub>Responsive design <kbd>~3 hours</kbd></sub> <br>
-> ▐ <sub>Tried to figuring out how to add animation <kbd>~1 day</kbd></sub> <br>
+> 🌐 ***Next day*** Submit to [**Frontend Mentor**](https://www.frontendmentor.io "Solution") 🚩 <br>
 > ▐ <br>
 > 🗓️ 
 
@@ -90,12 +81,12 @@ This is my very first trying _mobile first approach_ for designing a website, TB
 ## Difficult Things 😵‍💫
 Things were difficult for me and I finally gave up 🤙
 - [ ] Try to use `grid`
-- [ ] Clean **CSS** code
+- [ ] Write a clean **CSS** code
 
 ## Author
 | [<img src="https://avatars.githubusercontent.com/u/47988956?v=4" alt="xvferdy" width="100px"/><br><sub><samp>Berlianto</samp></sub>](https://github.com/xvferdy)  |
 |:---:|
 
 <h3 align="right">
-      <a href="#time-tracking-dashboard">To Top ✪</a>
+      <a href="https://github.com/xvferdy/fem-3-column-preview-card-component#readme">To Top ✪</a>
 </h3>
