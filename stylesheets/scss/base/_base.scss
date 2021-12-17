@@ -7,14 +7,13 @@
 	padding: 0;
 	box-sizing: inherit;
 
-	font-family: $secondary-font;
-	// border: 1px solid grey;
-	// overflow-x: hidden;
+	font-family: $primary-font;
+	border: 1px solid grey;
 }
 
 body {
 	box-sizing: border-box;
-	// background-color: $very-dark-blue;
+	background-color: $very-light-gray;
 }
 
 html {
