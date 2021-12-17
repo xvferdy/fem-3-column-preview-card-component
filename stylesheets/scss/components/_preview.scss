@@ -20,7 +20,8 @@
 		max-width: 92rem;
 		display: flex;
 		p {
-			margin-bottom: 5rem;
+			min-height: 150px; //FIXME:
+			margin-bottom: 2.5rem;
 		}
 	}
 }
