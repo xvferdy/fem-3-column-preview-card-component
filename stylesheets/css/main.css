@@ -1,15 +1,43 @@
 @import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap");
+.preview__sedans, .preview__suv, .preview__luxury {
+  padding: 4.8rem 4.9rem;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: flex-start;
+  gap: 3.3rem;
+}
+.preview__sedans h2, .preview__suv h2, .preview__luxury h2 {
+  color: #f2f2f2;
+}
+.preview__sedans p, .preview__suv p, .preview__luxury p {
+  color: rgba(255, 255, 255, 0.75);
+}
+.preview__sedans button, .preview__suv button, .preview__luxury button {
+  cursor: pointer;
+  padding: 1.1rem 3.2rem;
+  border-radius: 2.5rem;
+  background-color: #f2f2f2;
+  border: 2px solid #f2f2f2;
+  font-size: 1.5rem;
+  line-height: 2.5rem;
+}
+.preview__sedans button:hover, .preview__suv button:hover, .preview__luxury button:hover {
+  background-color: transparent;
+  color: #f2f2f2;
+}
+
 *,
 *::before,
 *::after {
   margin: 0;
   padding: 0;
   box-sizing: inherit;
-  font-family: "Big Shoulders Display", cursive;
+  font-family: "Lexend Deca", sans-serif;
 }
 
 body {
   box-sizing: border-box;
+  background-color: #f2f2f2;
 }
 
 html {
@@ -22,13 +50,58 @@ html {
   place-items: center;
   padding: 7.2rem 2.4rem;
 }
+@media only screen and (max-width: 320px) {
+  .container {
+    padding: 7.2rem 1rem;
+  }
+}
 
 p {
   font-size: 1.5rem;
+  line-height: 2.5rem;
+  font-weight: 400;
+}
+
+h2 {
+  font-family: "Big Shoulders Display", cursive;
+  font-size: 4rem;
+  line-height: 4rem;
+  font-weight: 700;
+  text-transform: uppercase;
 }
 
 .preview {
-  background-color: pink;
+  max-width: 37.5rem;
+  border-radius: 0.8rem;
+  overflow: hidden;
+  position: relative;
+}
+.preview__sedans {
+  background-color: #e38826;
+}
+.preview__sedans button {
+  color: #e38826;
+}
+.preview__suv {
+  background-color: #006970;
+}
+.preview__suv button {
+  color: #006970;
+}
+.preview__luxury {
+  background-color: #004241;
+}
+.preview__luxury button {
+  color: #004241;
+}
+@media only screen and (min-width: 900px) {
+  .preview {
+    max-width: 92rem;
+    display: flex;
+  }
+  .preview p {
+    margin-bottom: 5rem;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */

@@ -1,5 +1,26 @@
 @use "../helpers/" as *;
 
 .preview {
-	background-color: pink;
+	max-width: 37.5rem;
+	border-radius: 0.8rem;
+	overflow: hidden;
+	position: relative;
+
+	&__sedans {
+		@include card($bright-orange);
+	}
+	&__suv {
+		@include card($dark-cyan);
+	}
+	&__luxury {
+		@include card($very-dark-cyan);
+	}
+
+	@include display(desktop) {
+		max-width: 92rem;
+		display: flex;
+		p {
+			margin-bottom: 5rem;
+		}
+	}
 }
