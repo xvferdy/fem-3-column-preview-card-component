@@ -38,8 +38,8 @@ Users should be able to:
 [![🐬 Newbie Difficulty List](https://img.shields.io/badge/Difficulty-Newbie-3F54A3?style=for-the-badge&logo=frontendmentor "Newbie Difficulty")](https://www.frontendmentor.io/challenges?difficulties=1)
 
 ## Links
-- Solution URL: [Frontend Mentor Solution]()
-- Live Site URL: [Github Pages]()
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/preview-card-component-3-column-html-sass-ayc3z8SZO)
+- Live Site URL: [Github Pages](https://xvferdy.github.io/fem-3-column-preview-card-component/)
 
 ## My process
 > ⌛ I challenge my self to finish this for ***~2 days*** <br>
@@ -49,7 +49,7 @@ Users should be able to:
 > ▐ <sub>[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) content & basic [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) <kbd>~1.5 hours</kbd></sub> <br>
 > ▐ <sub>Start styling & try mobile first approach <kbd>~2.5 day</kbd></sub> <br>
 > ▐ <br>
-> 🌐 ***Next day*** Submit to [**Frontend Mentor**](https://www.frontendmentor.io "Solution") 🚩 <br>
+> 🌐 ***Next day*** Submit to [**Frontend Mentor**](https://www.frontendmentor.io/solutions/preview-card-component-3-column-html-sass-ayc3z8SZO "Solution") 🚩 <br>
 > ▐ <br>
 > 🗓️ 
 
