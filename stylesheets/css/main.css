@@ -1,5 +1,28 @@
-h1 {
-  color: pink;
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.container {
+  min-height: calc(100vh - 20px);
+  display: grid;
+  place-items: center;
+  padding: 7.2rem 2.4rem;
+}
+
+.preview {
+  background-color: pink;
 }
 
 /*# sourceMappingURL=main.css.map */
