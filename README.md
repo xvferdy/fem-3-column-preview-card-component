@@ -61,7 +61,7 @@ Users should be able to:
 ## What I learned 🥳
 This is my very first trying _mobile first approach_ for designing a website, TBH I'm not really comfortable and this lead me to writing unnecessary **CSS** code. But I will fix my self and study more.
 
-###### src/stylesheets/helpers/\_breakpoints.scss
+###### ./stylesheets/scss/helpers/\_breakpoints.scss
 ```scss
 @mixin display($breakpoint) {
   @if ($breakpoint == sm-phone) {
@@ -79,7 +79,7 @@ This is my very first trying _mobile first approach_ for designing a website, TB
 ```
 
 ## Difficult Things 😵‍💫
-Things were difficult for me and I finally gave up 🤙
+Things were difficult for me and I finally gave up‼️
 - [ ] Try to use `grid`
 - [ ] Write a clean **CSS** code
 
