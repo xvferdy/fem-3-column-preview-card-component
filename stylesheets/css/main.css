@@ -100,7 +100,8 @@ h2 {
     display: flex;
   }
   .preview p {
-    margin-bottom: 5rem;
+    min-height: 150px;
+    margin-bottom: 2.5rem;
   }
 }
 
